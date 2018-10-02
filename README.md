@@ -34,4 +34,4 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
 
-This is a test pull request and please fix this readme fili.
+This is a test pull request and I recomend to fix this README after demo.
