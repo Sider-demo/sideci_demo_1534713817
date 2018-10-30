@@ -4,6 +4,5 @@ class Micropost < ApplicationRecord
   # RuboCop will say "You can use `validates` instead of `validates_*`.".
   # For example:
   #   validates :content, presence: true, length: { maximum: 200 }
-  validates_length_of :content, maximum: 200
-  validates_presence_of :content
+  validates :content, presence: true, length: { maximum: 200 }
 end
