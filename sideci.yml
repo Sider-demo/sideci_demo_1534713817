@@ -1,0 +1,6 @@
+linter:
+  rubocop:
+    gems:
+      - rubocop-rspec
+      - name: meowcop
+        version: 1.17.0
